@@ -38,10 +38,6 @@ public class Employee {
         }
     }
 
-//    void salaryCalculation() {
-//        this.salary = (this.salary * this.salaryIncrease + this.overtimeFee) - this.tax;
-//    }
-
     void print() {
         System.out.println("Name: " + this.name + "\n" +
                 "Salary: " + this.salary + "\n" +
